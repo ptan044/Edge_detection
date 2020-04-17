@@ -1,0 +1,134 @@
+﻿  Edge_detection.cpp
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(326,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(327,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(360,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(360,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(363,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(365,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(366,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(381,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(399,27): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(402,25): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(412,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(413,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(431,20): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(440,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(477,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(478,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(479,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(479,59): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(500,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(501,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(501,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(504,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(513,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(514,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(514,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(517,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(526,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(527,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(527,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(530,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(539,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(540,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(540,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(543,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(572,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(573,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(575,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(576,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(576,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(587,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(588,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(590,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(591,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(591,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(600,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(601,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(603,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(604,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(604,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(613,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(614,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(616,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(617,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(617,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(641,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(642,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(643,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(646,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(648,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(663,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(664,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(665,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(668,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(670,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(769,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(769,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(772,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(774,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(775,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(781,9): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(781,20): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(781,40): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(781,51): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(816,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(817,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(820,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(820,32): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(821,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(821,28): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(822,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(823,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(826,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(826,37): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(839,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(840,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(843,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(843,32): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(844,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(844,28): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(845,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(846,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(848,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(848,37): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(862,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(863,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(866,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(866,33): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(867,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(867,28): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(868,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(872,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(872,37): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(885,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(886,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(889,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(889,33): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(890,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(890,28): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(891,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(895,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(895,37): warning C4309: '=': truncation of constant value
+C:\Users\Pin Da\source\repos\Edge_detection\Edge_detection\Edge_detection.cpp(983,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Edge_detection.vcxproj -> C:\Users\Pin Da\source\repos\Edge_detection\x64\Debug\Edge_detection.exe
